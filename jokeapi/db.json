@@ -1,0 +1,34 @@
+{
+  "user": [
+    {
+      "name": "om",
+      "age": "10",
+      "email": "om@gmail.com",
+      "id": "20ef"
+    },
+    {
+      "id": "2761",
+      "name": "rohit",
+      "age": "16",
+      "email": "rohit@gmali.com"
+    },
+    {
+      "id": "f98f",
+      "name": "nikhil",
+      "age": "25",
+      "email": "nikhil@gmali.com"
+    },
+    {
+      "id": "e92a",
+      "name": "karan",
+      "age": "52",
+      "email": "karan@gmali.com"
+    },
+    {
+      "id": "012a",
+      "name": "atul",
+      "age": "34",
+      "email": "atul@gmali.com"
+    }
+  ]
+}
